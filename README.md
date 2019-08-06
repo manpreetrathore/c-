@@ -50,7 +50,9 @@ Deposit
 Withdraw Amount
 Type of account
 Customer data is stored in a Binary File. A Customer can Deposit and Withdraw amount from his account. User can Modify an Delete Account
+
 HEADER FILES USED:
+
 #include<iostream.h>
 #include<fstream.h>
 #include<conio.h>
