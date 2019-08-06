@@ -2,7 +2,9 @@
 These are a brief description of the 2 projects in my repo namely:
 1. FEE MANAGEMENT SYSTEM
 2. BANK MANAGEMENT SYSTEM
-                 :: FEE MANAGEMENT SYSTEM ::
+                 
+                 
+                :: FEE MANAGEMENT SYSTEM ::
 PROPOSED SYSTEM
 
 The following documentation is for the  project “FEE MANAGEMENT SYSTEM”. It is a detailed summary of all the drawbacks of the old system and how the new proposed system overcomes these shortcomings. The new system takes into account the various factors while designing a new system. It keeps into the account the Economical bandwidth available for the new system. The foremost thing that is taken care of is the need and requirements of the user.
